@@ -34,9 +34,9 @@ The project also reinforced the importance of presenting data in a way that help
 - **Tableau** – Data visualisation, calculated fields, filters, and interactive dashboards
 - **Retail & Sales Data** – Data exploration, performance analysis, and visual reporting
 
-## 🚀 [GB Employment Data Dashboard Link:](https://public.tableau.com/views/GBEmploymentData_17900183574700/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## [GB Employment Data Dashboard Link](https://public.tableau.com/views/GBEmploymentData_17900183574700/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Global Health Insights Dashboard Link:](https://public.tableau.com/views/GlobalHealthInsights_17900857474740/GlobalHealthInsights?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## [Global Health Insights Dashboard Link](https://public.tableau.com/views/GlobalHealthInsights_17900857474740/GlobalHealthInsights?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
