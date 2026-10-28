@@ -1,6 +1,6 @@
 # SQL & Database Architecture Portfolio
  
-**Tech Stack:** SQL (PostgreSQL / MySQL), Supabase, Git, Relational Database Design (ERD Modeling)
+**Tech Stack:** SQL (PostgreSQL / MySQL), Supabase, Relational Database Design (ERD Modeling)
 
 ---
 
@@ -26,11 +26,11 @@ This repository demonstrates my practical expertise in database design, SQL quer
 ### 1. Relational Database Architecture (SkillUp Academy)
 * **Objective:** Redesign a legacy spreadsheet system into a scalable 3rd Normal Form (3NF) relational database.
 * **Core Entities:** `Students`, `Courses`, `Enrolments`, `Orders`.
-* **Data Integrity:** Applied Primary Keys (`student_id`, `course_id`, etc.) and Foreign Keys (`student_id` & `course_id` inside `Enrolments`) to enforce referential integrity and eliminate redundancy.
+* **Data Integrity:** Applied Primary Keys (`student_id`, `course_id`) and Foreign Keys (`student_id` & `course_id` inside `Enrolments`) to enforce referential integrity and eliminate redundancy.
 * **Architecture Comparison:** Evaluated Relational (PostgreSQL) vs. Non-Relational (NoSQL/MongoDB) systems for clickstream logs and unstructured user feedback.
 
 ### 2. Business Analytics (Northwind Traders)
-* **Sales & Logistics:** Analyzing high-value products ($>£50$), tracking order dates, and auditing regional customer bases across North America and Europe.
+* **Sales & Logistics:** Analyzing high-value products, tracking order dates, and auditing regional customer bases across North America and Europe.
 * **Multi-Table Relational Analytics:** Combining `Products`, `Categories`, `Suppliers`, `Orders`, and `Employees` to track supply chains, employee sales performance, and regional revenue metrics.
 * **Complex Aggregation:** Aggregating total quantities sold, total revenue generated per product (`SUM(Quantity * Price)`), and order volume per shipping partner.
 
@@ -38,13 +38,6 @@ This repository demonstrates my practical expertise in database design, SQL quer
 * **Demographic Analysis:** Identifying population distributions, calculating density (`Population / SurfaceArea`), and locating extreme demographic outliers (most/least populated cities).
 * **Geographical Foreign Key Queries:** Linking capital city IDs to country primary keys to analyze administrative populations across continents.
 * **Data Pagination:** Leveraging `LIMIT` and `OFFSET` for pagination reports (e.g., extracting cities ranked 31st to 40th by population size).
-
----
-
-## 🧰 Tools and Technologies
-
-- **SQL** – querying, filtering, joining, and aggregating data.
-- **Supabase** – database environment and SQL Editor.
 
 ---
 

@@ -24,6 +24,17 @@ The project focused on analysing retail and sales data, preparing datasets for a
 | DAX | Calculated columns and measures |
 | Interactive Visuals | Exploring retail and sales performance |
 
+# Power BI Dashboard Insights
+
+![FY2019 Sales & Target Overview](Power%20BI%203.jpg)
+* **FY2019 Performance:** The business hit its target almost perfectly, reaching **$8.66M** in sales with a tiny **$8.5k** surplus.
+
+![Sales by Region & Category](Power%20BI%201.jpg)
+* **Sales & Products Overview:** The **US** generates the most overall revenue, with **bikes** driving the money and **clothing** driving unit volume.
+
+![UK Regional Financial Breakdown](Power%20BI%202.jpg)
+* **UK Profit Breakdown:** Even though UK sales grew to **$2.5M**, rising costs pushed the region from a **$78k profit** into a **$36k loss**.
+
 ## Key Learning Outcomes
 
 Through this project, I developed practical experience in the data analysis workflow, from preparing datasets to building interactive dashboards. I strengthened my understanding of how to use Power BI to explore retail and sales data, communicate patterns visually, and support data-driven decision-making.
@@ -31,4 +42,5 @@ Through this project, I developed practical experience in the data analysis work
 ## Project Purpose
 
 This project showcases my developing skills in **business intelligence, data preparation, reporting, and visual data storytelling** as I progress towards a career in data analysis.
+
 
