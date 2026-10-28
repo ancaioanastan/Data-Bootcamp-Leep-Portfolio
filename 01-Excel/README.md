@@ -30,7 +30,7 @@ Through practical, hands-on exercises, I worked with retail sales, student perfo
 - Calculated total and average commission using Excel formulas.
 - Sorted and filtered transaction records to examine data efficiently.
 <img width="1282" height="600" alt="Q3 sales by products gen" src="https://github.com/user-attachments/assets/7a71a953-13d9-4174-99e2-aea0b3dea901" />
-<img width="850" height="555" alt="Q2 Sales by Category and Gender" src="https://github.com/user-attachments/assets/624e7be6-7511-4a72-b9a6-ef9c14d1b295" />
+<img width="750" height="455" alt="Q2 Sales by Category and Gender" src="https://github.com/user-attachments/assets/624e7be6-7511-4a72-b9a6-ef9c14d1b295" />
 
 **2. Student Performance Analysis**
 - Compared English, Maths and Science scores.
@@ -43,8 +43,8 @@ Through practical, hands-on exercises, I worked with retail sales, student perfo
 - Created PivotTables to compare profitability across countries, age groups and gender.
 - Identified the United States as the highest-profit market in the exercise, with **$60,370 total profit**.
 - Compared customer segments to identify differences in sales performance.
-<img width="1071" height="732" alt="BikeSales redo" src="https://github.com/user-attachments/assets/9c311c3f-b186-4956-a91c-8a5e0a6e0888" />
-<img width="1097" height="657" alt="Bike Sales PivotTable" src="https://github.com/user-attachments/assets/69b68699-9bb4-4c3f-81a1-3299fc7fb032" />
+<img width="871" height="532" alt="BikeSales redo" src="https://github.com/user-attachments/assets/9c311c3f-b186-4956-a91c-8a5e0a6e0888" />
+<img width="897" height="457" alt="Bike Sales PivotTable" src="https://github.com/user-attachments/assets/69b68699-9bb4-4c3f-81a1-3299fc7fb032" />
 
 
 **4. Product Sales Analysis**
