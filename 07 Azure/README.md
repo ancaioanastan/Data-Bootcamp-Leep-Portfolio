@@ -96,30 +96,10 @@ The project included practical Azure learning activities and scenario-based exer
 | Explore Azure Storage for Non-Relational Data | Cloud storage and non-relational data concepts. |
 | Explore Microsoft Fabric Analytics | Analytical workloads, real-time analytics, and data visualisation fundamentals. |
 | Azure resource simulations | Introduction to resource groups, virtual machines, storage accounts, and file shares. |
-| Paws & Whiskers business scenario | Applied thinking around sales, customer, and inventory data, Azure service selection, data modelling, and data protection. |
-| Cloud cost estimation | Understanding pricing calculators, resource requirements, and cost-management considerations. |
+| | Cloud cost estimation | Understanding pricing calculators, resource requirements, and cost-management considerations. |
+![Azure_1.png](A Power BI Desktop sales report showing interactive charts and a map that highlights data for London.)
 
-The Paws & Whiskers scenario considered how a growing retail business could move beyond manually maintained spreadsheets towards a more integrated approach to data storage, analysis, and reporting.
-
-## 🔍 6. Data Analysis and SQL Skills
-
-The training provided a foundation for understanding relational data and how SQL supports querying structured datasets.
-
-Core SQL concepts relevant to analysing retail and sales data include:
-
-| SQL Statement | Purpose |
-|---|---|
-| `SELECT` | Retrieve specific columns from a dataset. |
-| `WHERE` | Filter records based on defined conditions. |
-| `ORDER BY` | Sort results to identify high or low values. |
-| `GROUP BY` | Aggregate records to summarise sales or performance by category. |
-| `JOIN` | Combine related tables, such as orders, customers, and products. |
-
-These techniques can be applied to investigate sales performance, compare product categories, identify customer purchasing patterns, and summarise transaction data.
-
-*Note: These SQL statements describe relevant skills for extending this project. The workbook documents Azure SQL Database exploration, but does not provide evidence of a completed retail SQL analysis using these queries.*
-
-## 🔐 7. Data Security, Privacy and Compliance
+## 🔐 6. Data Security, Privacy and Compliance
 
 Explored the importance of protecting organisational and customer data when adopting cloud technologies.
 
