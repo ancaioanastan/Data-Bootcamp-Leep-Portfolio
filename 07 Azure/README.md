@@ -97,7 +97,6 @@ The project included practical Azure learning activities and scenario-based exer
 | Explore Microsoft Fabric Analytics | Analytical workloads, real-time analytics, and data visualisation fundamentals. |
 | Azure resource simulations | Introduction to resource groups, virtual machines, storage accounts, and file shares. |
 | | Cloud cost estimation | Understanding pricing calculators, resource requirements, and cost-management considerations. |
-![Azure_1.png](A Power BI Desktop sales report showing interactive charts and a map that highlights data for London.)
 
 ## 🔐 6. Data Security, Privacy and Compliance
 
@@ -123,6 +122,9 @@ This project strengthened my foundational understanding of:
 - The role of Microsoft Fabric and Power BI in data analytics.
 - How organisations can use cloud data services to support reporting and business decisions.
 - The importance of security, compliance, and cost management when working with cloud data.
+
+<img width="1379" height="818" alt="Azure_1" src="https://github.com/user-attachments/assets/ed323385-765f-48bf-ae2a-c1a6c7368d33" />
+## A Power BI Desktop sales report showing interactive charts and a map that highlights data for London.)
 
 ## 🚀 Skills Developed
 
