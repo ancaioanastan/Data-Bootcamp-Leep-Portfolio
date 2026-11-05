@@ -36,4 +36,4 @@ This repository is structured as a single master portfolio to demonstrate a comp
 ---
 📫 **Connect with me:** 
 * [Linkedin Profile ]([linkedin.com/in/ancastan)
-* [[Tableau Public Profile Link Here](https://public.tableau.com/app/profile/anca.stan4933/vizzes)]
+* [Tableau Public Profile Link ](https://public.tableau.com/app/profile/anca.stan4933/vizzes)
